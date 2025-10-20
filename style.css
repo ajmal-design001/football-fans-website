@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  background-image: url('images/background.jpg'); 
+  background-image: url('web-bg.jpg'); 
   background-size: cover;     
   background-position: center;  
   background-repeat: no-repeat;
@@ -346,6 +346,7 @@ footer {
   0% { transform: translateX(0); }
   100% { transform: translateX(-50%); }
 }
+
 
 
 
