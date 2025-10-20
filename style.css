@@ -8,7 +8,7 @@ body {
   background-attachment: fixed;
 }
 .hero-banner {
-  background-image: src('njr.png');
+  background-image: url('njr.png');
   background-size: cover;
   background-position: center;
   height: 100vh;
@@ -84,7 +84,7 @@ body {
   padding: 15px 0;
   z-index: 1000;
   box-shadow: 0 2px 5px rgba(0,0,0,0.2);
-  background-image: src('foot.bg.webp');
+  background-image: url('foot.bg.webp');
   background-position: center;
   height: 225px;
   width: 1475px;
@@ -343,6 +343,7 @@ footer {
   0% { transform: translateX(0); }
   100% { transform: translateX(-50%); }
 }
+
 
 
 
