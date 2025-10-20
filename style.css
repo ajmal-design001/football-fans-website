@@ -1,15 +1,12 @@
 body {
   margin: 0;
   padding: 0;
-  background-image: url('https://upload.wikimedia.org/wikipedia/commons/6/6e/Stadium_background.jpg');
-  background-size: cover;     
-  background-position: center;  
+  background-image: url('web-bg.jpg'); 
+  background-size: cover;
+  background-position: center;
   background-repeat: no-repeat;
-  background-attachment: fixed; 
-  font-family: sans-serif;
-  padding-top: 100px;
+  background-attachment: fixed;
 }
-
 .hero-banner {
   background-image: src('njr.png');
   background-size: cover;
@@ -346,6 +343,7 @@ footer {
   0% { transform: translateX(0); }
   100% { transform: translateX(-50%); }
 }
+
 
 
 
