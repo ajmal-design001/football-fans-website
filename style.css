@@ -83,7 +83,7 @@ body {
   padding: 15px 0;
   z-index: 1000;
   box-shadow: 0 2px 5px rgba(0,0,0,0.2);
-  background-image: url('foot-bg.jpg');
+  background-image: src('foot.bg.webp');
   background-position: center;
   height: 225px;
   width: 1475px;
@@ -313,6 +313,7 @@ footer {
     align-items: center;
   }
 }
+
 
 
 
