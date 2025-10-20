@@ -1,9 +1,13 @@
 body {
   margin: 0;
-  font-family: 'Segoe UI', sans-serif;
-  background-color: #f4f4f4;
-  color: #333;
-  padding-top: 100px; /* Prevent content from hiding behind fixed header */
+  padding: 0;
+  background-image: url('images/background.jpg'); 
+  background-size: cover;     
+  background-position: center;  
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  font-family: sans-serif;
+  padding-top: 100px;
 }
 
 .hero-banner {
@@ -342,6 +346,7 @@ footer {
   0% { transform: translateX(0); }
   100% { transform: translateX(-50%); }
 }
+
 
 
 
