@@ -7,7 +7,7 @@ body {
 }
 
 .hero-banner {
-  background-image: url('https://images.unsplash.com/photo-1609334769512-7c3c3f3f3f3f?auto=format&fit=crop&w=1600&q=80'); /* Replace with your preferred image */
+  background-image: url('foot/njr.png');
   background-size: cover;
   background-position: center;
   height: 100vh;
@@ -313,5 +313,6 @@ footer {
     align-items: center;
   }
 }
+
 
 
