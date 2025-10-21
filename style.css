@@ -15,7 +15,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  color: white;
+  color: gold;
   text-align: center;
   position: relative;
 }
@@ -170,7 +170,7 @@ html {
 .team-list li a {
   display: block;
   background-color: #1e3d59;
-  color: white;
+  color: crimson;
   text-decoration: none;
   padding: 10px 15px;
   border-radius: 5px;
@@ -179,7 +179,7 @@ html {
 }
 
 .team-list li a:hover {
-  background-color: #3e5f7d;
+  background-color: navy;
 }
 
 .players-section {
@@ -358,6 +358,7 @@ footer {
   0% { transform: translateX(0); }
   100% { transform: translateX(-50%); }
 }
+
 
 
 
